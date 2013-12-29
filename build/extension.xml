@@ -1,0 +1,13 @@
+<extension xmlns="http://ns.adobe.com/air/extension/3.6">
+  <id>com.janumedia.ane.social</id>
+  <versionNumber>1</versionNumber>
+  <platforms>
+    <platform name="Android-ARM">
+      <applicationDeployment>
+        <nativeLibrary>SocialANE.jar</nativeLibrary>
+        <initializer>com.janumedia.ane.social.SocialExtension</initializer>
+        <finalizer>com.janumedia.ane.social.SocialExtension</finalizer>
+      </applicationDeployment>
+    </platform>
+  </platforms>
+</extension>
