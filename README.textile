@@ -1,6 +1,6 @@
 h1. Social Sharing ANE for Android
 
-Social Sharing Native Extension for Android applications
+SocialANE - Social Sharing Native Extension for Android applications
 
 h3. Version
 
