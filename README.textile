@@ -22,7 +22,7 @@ h3. Usage
 
 var subjectStr:String = "This is Subject";
 var messageStr:String = "This is the messsages";
-var socialAne:Social = Social.intance;
+var socialAne:Social = Social.instance;
 socialAne.share(subjectStr, messageStr);
 
 h3. Developers
